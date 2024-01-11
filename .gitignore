@@ -1,0 +1,12 @@
+Fractals/
+Gates/
+
+func.py
+qlib.py
+test.py
+
+.DS_Store
+
+```
+__pycache__/
+```
